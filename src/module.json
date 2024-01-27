@@ -1,5 +1,5 @@
 {
-  "id": "testadirapa/d66",
+  "id": "testadirapa-d66",
   "title": "d66",
   "description": "A simple module to manage d6, d66, d666 rolls on foundry.",
   "authors": [
@@ -12,5 +12,7 @@
   "compatibility": {
     "minimum": "11",
     "verified": "11"
-  }
+  },
+  "esmodules": ["scripts/module.js"],
+  "styles": ["styles/style.css"]
 }
